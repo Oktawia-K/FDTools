@@ -74,3 +74,5 @@
             - potrzebne przy manualnej konfiguracji, clone robi to za nas
     - ` git push origin test-klon:oktawia-test-klon`
         - publikowanie gałęzi pod inną nazwą
+    - tagi muszą być wysyłane na Remote osobno
+    - `git clone` powiela tagi
