@@ -72,4 +72,5 @@
         - `git push origin master -u`
         - dodanie mapowanie dla punktu wypchnięcia zmian w zdalnym repo
             - potrzebne przy manualnej konfiguracji, clone robi to za nas
-        
+    - ` git push origin test-klon:oktawia-test-klon`
+        - publikowanie gałęzi pod inną nazwą
