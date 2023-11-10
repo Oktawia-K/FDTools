@@ -60,4 +60,5 @@
 
 ---
 - **repozytoria**
-    - 
+    - git remote remove origin
+        - usunięcie zdalnego repozytorium (dołączenie od repo)
