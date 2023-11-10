@@ -60,5 +60,16 @@
 
 ---
 - **repozytoria**
-    - git remote remove origin
+    - `git remote remove origin`
         - usunięcie zdalnego repozytorium (dołączenie od repo)
+    - bare repository
+        - `git init -bare`
+            - tworzenie (będąc wewnątrz odpowiedniego katalogu .git)
+        - lokalny wariant repozytorium do synchronizacja zmian zdalnych
+    - `git remote add origin [ścieżka]`
+        - dodanie zdalnego repozytorium do lokalnego
+    - `git push --set-upstream origin master`
+        - `git push origin master -u`
+        - dodanie mapowanie dla punktu wypchnięcia zmian w zdalnym repo
+            - potrzebne przy manualnej konfiguracji, clone robi to za nas
+        
