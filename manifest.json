@@ -8,8 +8,8 @@
     "scope": "/",
     "start_url": "/FDTools/",
     "icons": [
-        {"src": "./brzozy.jpg",
+        {"src": "./brzozy.png",
         "sizes": "512x512",
-        "type": "image/jpg"}
+        "type": "image/png"}
     ]
   }
