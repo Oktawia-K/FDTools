@@ -1,0 +1,15 @@
+{
+    "name": "Blog o drzewach",
+    "short_name": "Drzewa",
+    "theme_color": "#006b0b",
+    "background_color": "#adffb1",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/FDTools/",
+    "icons": [
+        {"src": "./brzozy.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg"}
+    ]
+  }
